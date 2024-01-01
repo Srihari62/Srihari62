@@ -1,8 +1,8 @@
 
 [![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sri Hari Boya</h1>
+<h1 align="center">Hi 👋, I'm <span color="#eb2f96">Sri Hari</span> Boya</h1>
 <h3 align="center">An Aspiring MERN stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="350" src="https://i.ibb.co/YWD9Xsc/OIG-ff2.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srihari62&label=Profile%20views&color=0e75b6&style=flat" alt="srihari62" /> </p>
 
 - 🌱 I’m currently learning **Frontend, DSA**
@@ -12,6 +12,8 @@
 - 📫 How to reach me **srihari6281@gmail.com**
 
 - 📄 Know about my experiences by looking at my [resume](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/Sri_Hari_2022-12-22-174533.pdf)
+
+- 💻 Have a look at my [portfolio](https://shportfolio.ccbp.tech/)
 
 
 <h3 align="left">Connect with me:</h3>
