@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences by looking at my [resume](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/Sri_Hari_2022-12-22-174533.pdf)
 
-- 💻 Have a look at my [portfolio](https://shportfolio.ccbp.tech/)
+- 💻 Have a look at my [portfolio](https://srihari-portfolio.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
