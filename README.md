@@ -36,7 +36,7 @@
 
 ### Intro
 
-Full Stack Software Engineer with 2+ years of experience building scalable SaaS and real-time applications.
+Full Stack Software Engineer with 3+ years of experience building scalable SaaS and real-time applications.
 Specialized in designing high-performance frontend systems and backend architectures using React, Next.js,
 Node.js, and PostgreSQL. Strong foundation in Data Structures & Algorithms and actively building system design
 expertise.
@@ -54,7 +54,7 @@ expertise.
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/15YntoCSK2qUcICmYKXvXcjZewLbUEKDa/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1rp4L8xfOWcRsYnrmdro8gCAX2yKTup3w/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
